@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\IO\Zad7\Zad7\bin\Debug\Zad7.exe.config
+C:\Users\Lenovo\Desktop\IO\Zad7\Zad7\bin\Debug\Zad7.exe
+C:\Users\Lenovo\Desktop\IO\Zad7\Zad7\bin\Debug\Zad7.pdb
+C:\Users\Lenovo\Desktop\IO\Zad7\Zad7\obj\Debug\Zad7.exe
+C:\Users\Lenovo\Desktop\IO\Zad7\Zad7\obj\Debug\Zad7.pdb

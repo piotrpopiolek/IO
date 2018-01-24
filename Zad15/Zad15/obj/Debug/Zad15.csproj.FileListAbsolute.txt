@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Dropbox\PODY programy\Zad15\Zad15\bin\Debug\Zad15.exe.config
+C:\Users\Lenovo\Dropbox\PODY programy\Zad15\Zad15\obj\Debug\Zad15.csprojResolveAssemblyReference.cache

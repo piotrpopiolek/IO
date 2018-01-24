@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\IO\Zad1\Zad1\bin\Debug\Zad1.exe.config
+C:\Users\Lenovo\Desktop\IO\Zad1\Zad1\bin\Debug\Zad1.exe
+C:\Users\Lenovo\Desktop\IO\Zad1\Zad1\bin\Debug\Zad1.pdb
+C:\Users\Lenovo\Desktop\IO\Zad1\Zad1\obj\Debug\Zad1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\IO\Zad1\Zad1\obj\Debug\Zad1.exe
+C:\Users\Lenovo\Desktop\IO\Zad1\Zad1\obj\Debug\Zad1.pdb
