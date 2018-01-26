@@ -1,0 +1,4 @@
+b. Withdraw cash,
+c. Browse documents,
+d. Search documents,
+g. Cancel appointment.
